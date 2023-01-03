@@ -1,0 +1,5 @@
+Name,BMI,Age,Glucose,Diagnosis,Confidence
+Gajender,25,20,100,Not Diabetic,100.0
+Rohan,30,45,200,Diabetic,84.21
+manav,65,20,150,Diabetic,57.89
+manav,200,25,150,Diabetic,78.95

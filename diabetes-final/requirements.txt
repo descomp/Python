@@ -1,0 +1,4 @@
+pip install flask==2.0.0
+pip install gunicorn
+pip install scikit-learn==0.24.2
+pip install numpy
